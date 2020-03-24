@@ -1,0 +1,11 @@
+C:\Users\Corot\source\repos\DesafioFramework\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\Corot\source\repos\DesafioFramework\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Corot\source\repos\DesafioFramework\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Corot\source\repos\DesafioFramework\Interface\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Corot\source\repos\DesafioFramework\Interface\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Corot\source\repos\DesafioFramework\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\Corot\source\repos\DesafioFramework\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Corot\source\repos\DesafioFramework\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Corot\source\repos\DesafioFramework\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CopyComplete
+C:\Users\Corot\source\repos\DesafioFramework\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Corot\source\repos\DesafioFramework\Interface\obj\Debug\netcoreapp3.1\Interface.pdb

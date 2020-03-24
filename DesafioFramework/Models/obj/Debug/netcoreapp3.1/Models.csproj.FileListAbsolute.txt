@@ -1,0 +1,8 @@
+C:\Users\Corot\source\repos\DesafioFramework\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\Corot\source\repos\DesafioFramework\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Corot\source\repos\DesafioFramework\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Corot\source\repos\DesafioFramework\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Corot\source\repos\DesafioFramework\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Corot\source\repos\DesafioFramework\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\Corot\source\repos\DesafioFramework\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Corot\source\repos\DesafioFramework\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache

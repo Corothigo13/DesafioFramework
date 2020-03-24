@@ -1,0 +1,49 @@
+﻿@model Models.DatabaseContext.Estado
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Estado</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="form-group">
+                        @Html.LabelFor(Model => Model.Descricao, new { @class = "control-label" })
+                        @Html.TextBoxFor(Model => Model.Descricao, new { @type = "text", @class = "form-control" })
+                        @Html.ValidationMessageFor(Model => Model.Descricao)
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    @Html.LabelFor(Model => Model.PaisId, new { @class = "control-label" })
+                </div>
+                <div class="col-sm-12">
+                    <div class="form-group">
+                        @Html.DropDownListFor(Model => Model.PaisId, new SelectList(ViewBag.Paises, "Id", "Descricao").OrderBy(x => x.Text), new { @style = "width: 100%;", @class = "form-control" })
+                        @Html.ValidationMessageFor(Model => Model.PaisId)
+                        @Html.HiddenFor(Model => Model.PaisId)
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
